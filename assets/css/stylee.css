@@ -1,0 +1,31 @@
+body {
+    color:#212529;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+h5  {
+    font-size:20px;
+    max-width: 261px;
+    max-height: 73px;
+}
+.navbar img{
+    max-width: 86px;
+    max-height: 25px;
+}
+.precio {
+    font-size: 20px;
+    font-weight: 500;
+}
+.card img {
+    height: 220px;
+    object-fit: contain;
+    object-position: middle;
+}
+footer img {
+    max-width: 82px;
+    max-height: 24px;
+    object-position: middle;
+    object-fit:content
+}
+
