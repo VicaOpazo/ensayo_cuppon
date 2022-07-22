@@ -1,8 +1,14 @@
 body {
-    color:#212529;
-    font-family: 'Roboto', sans-serif;
+    color:#3F3844;
+    font-family: 'Lato', sans-serif;
     font-weight: 300;
     font-size: 16px;
+}
+.barra{
+    background-color:#b2c3b1;
+}
+.text1 {
+    color: red;
 }
 h5  {
     font-size:20px;
